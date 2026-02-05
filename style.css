@@ -1,14 +1,16 @@
 :root {
   --bg: #0b0a14;
-  --card: #18162b;
+  --surface: #171629;
+  --surface-2: #201e35;
   --text: #f5f3ff;
   --muted: #b7b0d1;
   --accent: #ff79e8;
   --accent-2: #7a7bff;
+  --stroke: rgba(255,255,255,0.08);
 }
 
 * { box-sizing: border-box; }
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, SF
+  font-family: SF
